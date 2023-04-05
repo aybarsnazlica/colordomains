@@ -28,19 +28,12 @@ optional arguments:
                         Protein domain start and end residue numbers (whitespace separated)
 ```
 
-After installation
+## Visualization
 
 ```bash
 colordomains -i 1ao0A.pdb -o 1ao0A_color.pdb -d 5 142 150 216
 ```
 
-## Visualization
+The modified copy of the input 3D protein structure can be viewed on a visualization software by selecting b-factors.
 
-The modified copy of the input 3D protein structure can be viewed on a visualization software by selecting b-factors. 
-
-![Before](before.png)
-
-↓
-
-![After](after.png)
-
+<img src="before.png" alt="before" title="Before" style="display: inline-block; margin: 0 auto; max-width: 300px" width="300" height="300">     <img src="after.png" alt="after" title="After" style="display: inline-block; margin: 0 auto; max-width: 300px" width="300" height="300"> 
