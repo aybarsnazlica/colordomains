@@ -38,9 +38,9 @@ colordomains -i 1ao0A.pdb -o 1ao0A_color.pdb -d 5 142 150 216
 
 The modified copy of the input 3D protein structure can be viewed on a visualization software by selecting b-factors. 
 
-![Before](https://github.com/[aybarsnazlica]/[colordomains]/blob/[main]/before.png?raw=true)
+![Before](before.png)
 
 ↓
 
-![After](https://github.com/[aybarsnazlica]/[colordomains]/blob/[main]/after.png?raw=true)
+![After](after.png)
 
