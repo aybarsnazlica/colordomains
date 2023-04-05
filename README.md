@@ -31,13 +31,16 @@ optional arguments:
 After installation
 
 ```bash
-colordomains -i <input.pdb> -o <modified.pdb> -d 5 142 150 216
+colordomains -i 1ao0A.pdb -o 1ao0A_color.pdb -d 5 142 150 216
 ```
 
 ## Visualization
 
-The modified copy of the input 3D protein structure can be viewed on a visualization software by selecting b-factors. For example, on PyMOL select:
+The modified copy of the input 3D protein structure can be viewed on a visualization software by selecting b-factors. 
 
-Color: spectrum
+![Before](https://github.com/[aybarsnazlica]/[colordomains]/blob/[main]/before.png?raw=true)
 
-Spectrum: b-factors
+↓
+
+![After](https://github.com/[aybarsnazlica]/[colordomains]/blob/[main]/after.png?raw=true)
+
